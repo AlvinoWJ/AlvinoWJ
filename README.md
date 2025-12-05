@@ -25,72 +25,38 @@
 
 </div>
 
----
 
-# 🎨 **Tech Stack**
 
+## 🛠️ Tech Stack
 <div align="center">
 
-<!-- Programming Languages -->
-### 🧩 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=php,ts,js,cs" />
-</p>
-
-<!-- Frameworks -->
-### 🧩 Frameworks & Libraries
-<p>
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,next,react,vue" />
-</p>
-
-<!-- Databases -->
-### 🧩 Databases & Cloud
-<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,vercel" />
-</p>
-
-<!-- Tools -->
-### 🧩 Tools
-<p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 </p>
-
 </div>
 
----
-
-# 🔥 **What I'm Currently Learning**
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=FFB86C&center=true&vCenter=true&width=600&lines=Advanced+React+%26+Next.js;DevOps+%7C+CI%2FCD+%7C+Containerization;Building+Production-Ready+Apps" />
-</div>
-
----
-
-# 🌟 **Aesthetic GitHub Stats**
+## 📈 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=alvinowj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+<!-- Two Cards -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=alvinowj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinowj&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinowj&layout=compact&theme=radical&hide_border=true" height="165" />
-
-<!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/alvinowj/alvinowj/output/github-contribution-grid-snake.svg" />
+<!-- Streak stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alvinowj&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 </div>
 
----
 
-# 💠 **Fun Fact**
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=6EFFA1&center=true&vCenter=true&width=600&lines=I+love+turning+ideas+into+beautiful+functional+interfaces!" />
-</div>
-
----
-
-# 🌐 **Connect with Me**
+## 🌐 **Connect with Me**
 
 <div align="center">
 
@@ -108,8 +74,4 @@
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
-</div>
