@@ -1,90 +1,115 @@
+<!-- HEADER | Gradient + Wave Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Alvino%20Dwi%20Nengku%20Wijaya&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%26%20DevOps%20Enthusiast&descAlignY=55&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Alvino%20Dwi%20Nengku%20Wijaya&fontSize=45&fontAlignY=40&animation=twinkling&desc=Frontend%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=60" />
 </div>
 
+<br/>
+
+<!-- INTRO CARD | Glass Effect -->
 <div align="center">
-  
-  ### 🎓 Third-Year Informatics Student
-  ### 🏫 Universitas Pembangunan Nasional "Veteran" Jawa Timur
-  
-  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1400&color=00C0FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Alvino+👋;Third-year+Informatics+Student;Frontend+Developer+and+DevOps+Enthusiast;I+love+building+clean+and+scalable+web+applications!" />
+</div>
 
-  <p align="center">
-    I enjoy building clean, scalable web applications and exploring modern technologies in the JavaScript ecosystem.<br/>
-    Currently growing my skills through real-world projects and continuous learning.
-  </p>
+<br/>
 
-  ---
+<!-- ABOUT -->
+<div align="center">
 
-  ### 🚀 Tech Stack
+### 🎓 Third-Year Informatics Student  
+### 🏫 Universitas Pembangunan Nasional "Veteran" Jawa Timur  
 
-  <div>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  </div>
-  
-  <div>
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  </div>
+<p width="80%">
+  Passionate about modern web technologies, system optimization, DevOps tooling,<br/>
+  and delivering seamless user experiences with clean, scalable frontend architecture.
+</p>
 
-  <div>
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </div>
+</div>
 
-  <div>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  </div>
+---
 
-  <br/>
+# 🎨 **Tech Stack**
 
-  <table>
-    <tr>
-      <td align="left" width="50%">
-        <h3>🌱 Currently Learning</h3>
-        <ul>
-          <li>Advanced React & Next.js</li>
-          <li>DevOps tools & containerization</li>
-          <li>Building production-ready apps</li>
-        </ul>
-      </td>
-      <td align="left" width="50%">
-        <h3>💡 Fun Fact</h3>
-        <p>I love turning ideas into functional interfaces — from clean UI to smooth user experience!</p>
-      </td>
-    </tr>
-  </table>
+<div align="center">
 
-  ---
+<!-- Programming Languages -->
+### 🧩 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=php,ts,js,cs" />
+</p>
 
-  <h3>📊 GitHub Stats</h3>
-  <a href="https://github.com/alvinowj">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=alvinowj&show_icons=true&theme=tokyonight&count_private=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinowj&layout=compact&theme=tokyonight" />
-  </a>
+<!-- Frameworks -->
+### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,next,react,vue" />
+</p>
 
-  ---
+<!-- Databases -->
+### 🧩 Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,vercel" />
+</p>
 
-  <h3>📫 Connect With Me</h3>
-  
-  <a href="https://www.linkedin.com/in/alvinowj/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ino_alv/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://alvinowj.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+<!-- Tools -->
+### 🧩 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+</p>
 
+</div>
+
+---
+
+# 🔥 **What I'm Currently Learning**
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=FFB86C&center=true&vCenter=true&width=600&lines=Advanced+React+%26+Next.js;DevOps+%7C+CI%2FCD+%7C+Containerization;Building+Production-Ready+Apps" />
+</div>
+
+---
+
+# 🌟 **Aesthetic GitHub Stats**
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=alvinowj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinowj&layout=compact&theme=radical&hide_border=true" height="165" />
+
+<!-- Contribution Snake Animation -->
+<img src="https://raw.githubusercontent.com/alvinowj/alvinowj/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 💠 **Fun Fact**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=6EFFA1&center=true&vCenter=true&width=600&lines=I+love+turning+ideas+into+beautiful+functional+interfaces!" />
+</div>
+
+---
+
+# 🌐 **Connect with Me**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/alvinowj/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+</a>
+
+<a href="https://www.instagram.com/ino_alv/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="48" />
+</a>
+
+<a href="https://alvinowj.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=vercel" height="48" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 </div>
